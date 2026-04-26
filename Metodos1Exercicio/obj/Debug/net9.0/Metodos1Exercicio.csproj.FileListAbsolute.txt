@@ -1,0 +1,14 @@
+C:\Users\camil\EstudosProgramacao\PoostudosTraba\Metodos1Exercicio\bin\Debug\net9.0\Metodos1Exercicio.exe
+C:\Users\camil\EstudosProgramacao\PoostudosTraba\Metodos1Exercicio\bin\Debug\net9.0\Metodos1Exercicio.deps.json
+C:\Users\camil\EstudosProgramacao\PoostudosTraba\Metodos1Exercicio\bin\Debug\net9.0\Metodos1Exercicio.runtimeconfig.json
+C:\Users\camil\EstudosProgramacao\PoostudosTraba\Metodos1Exercicio\bin\Debug\net9.0\Metodos1Exercicio.dll
+C:\Users\camil\EstudosProgramacao\PoostudosTraba\Metodos1Exercicio\bin\Debug\net9.0\Metodos1Exercicio.pdb
+C:\Users\camil\EstudosProgramacao\PoostudosTraba\Metodos1Exercicio\obj\Debug\net9.0\Metodos1Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camil\EstudosProgramacao\PoostudosTraba\Metodos1Exercicio\obj\Debug\net9.0\Metodos1Exercicio.AssemblyInfoInputs.cache
+C:\Users\camil\EstudosProgramacao\PoostudosTraba\Metodos1Exercicio\obj\Debug\net9.0\Metodos1Exercicio.AssemblyInfo.cs
+C:\Users\camil\EstudosProgramacao\PoostudosTraba\Metodos1Exercicio\obj\Debug\net9.0\Metodos1Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\camil\EstudosProgramacao\PoostudosTraba\Metodos1Exercicio\obj\Debug\net9.0\Metodos1Exercicio.dll
+C:\Users\camil\EstudosProgramacao\PoostudosTraba\Metodos1Exercicio\obj\Debug\net9.0\refint\Metodos1Exercicio.dll
+C:\Users\camil\EstudosProgramacao\PoostudosTraba\Metodos1Exercicio\obj\Debug\net9.0\Metodos1Exercicio.pdb
+C:\Users\camil\EstudosProgramacao\PoostudosTraba\Metodos1Exercicio\obj\Debug\net9.0\Metodos1Exercicio.genruntimeconfig.cache
+C:\Users\camil\EstudosProgramacao\PoostudosTraba\Metodos1Exercicio\obj\Debug\net9.0\ref\Metodos1Exercicio.dll

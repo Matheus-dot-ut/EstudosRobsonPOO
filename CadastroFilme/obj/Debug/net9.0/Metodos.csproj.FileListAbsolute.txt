@@ -1,0 +1,14 @@
+C:\Users\camil\EstudosProgramacao\EstudosPOO\Metodos\bin\Debug\net9.0\Metodos.exe
+C:\Users\camil\EstudosProgramacao\EstudosPOO\Metodos\bin\Debug\net9.0\Metodos.deps.json
+C:\Users\camil\EstudosProgramacao\EstudosPOO\Metodos\bin\Debug\net9.0\Metodos.runtimeconfig.json
+C:\Users\camil\EstudosProgramacao\EstudosPOO\Metodos\bin\Debug\net9.0\Metodos.dll
+C:\Users\camil\EstudosProgramacao\EstudosPOO\Metodos\bin\Debug\net9.0\Metodos.pdb
+C:\Users\camil\EstudosProgramacao\EstudosPOO\Metodos\obj\Debug\net9.0\Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camil\EstudosProgramacao\EstudosPOO\Metodos\obj\Debug\net9.0\Metodos.AssemblyInfoInputs.cache
+C:\Users\camil\EstudosProgramacao\EstudosPOO\Metodos\obj\Debug\net9.0\Metodos.AssemblyInfo.cs
+C:\Users\camil\EstudosProgramacao\EstudosPOO\Metodos\obj\Debug\net9.0\Metodos.csproj.CoreCompileInputs.cache
+C:\Users\camil\EstudosProgramacao\EstudosPOO\Metodos\obj\Debug\net9.0\Metodos.dll
+C:\Users\camil\EstudosProgramacao\EstudosPOO\Metodos\obj\Debug\net9.0\refint\Metodos.dll
+C:\Users\camil\EstudosProgramacao\EstudosPOO\Metodos\obj\Debug\net9.0\Metodos.pdb
+C:\Users\camil\EstudosProgramacao\EstudosPOO\Metodos\obj\Debug\net9.0\Metodos.genruntimeconfig.cache
+C:\Users\camil\EstudosProgramacao\EstudosPOO\Metodos\obj\Debug\net9.0\ref\Metodos.dll
