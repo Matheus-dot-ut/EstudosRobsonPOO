@@ -37,7 +37,7 @@ if(opcao.ToLower()=="s");
 
 hospede.MostraDaodsHospede;
 
-Reservas reserva = new Reservas;
+Reservas reserva = new Reservas();
 reserva.ReceberDadosReserva;
 reserva.MostrarDadosReserva;
 Console.WriteLine("Deseja aplica o desconto (s/n): ");
