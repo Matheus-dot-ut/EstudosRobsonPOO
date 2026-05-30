@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/matheuscd/projetosCodigo/C#Robson/TrabalhoRobson2Periodo/TrabalhoRobson.csproj": {}
+    "/home/matheuscd/FaculdadeC#/RobsonC#2Bimestre/ProjetoIngressoTrabalho0,5Pontos/ProjetoIngressoTrabalho0,5Pontos.csproj": {}
   },
   "projects": {
-    "/home/matheuscd/projetosCodigo/C#Robson/TrabalhoRobson2Periodo/TrabalhoRobson.csproj": {
+    "/home/matheuscd/FaculdadeC#/RobsonC#2Bimestre/ProjetoIngressoTrabalho0,5Pontos/ProjetoIngressoTrabalho0,5Pontos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/matheuscd/projetosCodigo/C#Robson/TrabalhoRobson2Periodo/TrabalhoRobson.csproj",
-        "projectName": "TrabalhoRobson",
-        "projectPath": "/home/matheuscd/projetosCodigo/C#Robson/TrabalhoRobson2Periodo/TrabalhoRobson.csproj",
+        "projectUniqueName": "/home/matheuscd/FaculdadeC#/RobsonC#2Bimestre/ProjetoIngressoTrabalho0,5Pontos/ProjetoIngressoTrabalho0,5Pontos.csproj",
+        "projectName": "ProjetoIngressoTrabalho0,5Pontos",
+        "projectPath": "/home/matheuscd/FaculdadeC#/RobsonC#2Bimestre/ProjetoIngressoTrabalho0,5Pontos/ProjetoIngressoTrabalho0,5Pontos.csproj",
         "packagesPath": "/home/matheuscd/.nuget/packages/",
-        "outputPath": "/home/matheuscd/projetosCodigo/C#Robson/TrabalhoRobson2Periodo/obj/",
+        "outputPath": "/home/matheuscd/FaculdadeC#/RobsonC#2Bimestre/ProjetoIngressoTrabalho0,5Pontos/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/matheuscd/.nuget/NuGet/NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.126/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.127/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
