@@ -1,0 +1,15 @@
+/home/matheuscd/FaculdadeC#/RobsonC#2Bimestre/Questao4/bin/Debug/net8.0/Questao4
+/home/matheuscd/FaculdadeC#/RobsonC#2Bimestre/Questao4/bin/Debug/net8.0/Questao4.deps.json
+/home/matheuscd/FaculdadeC#/RobsonC#2Bimestre/Questao4/bin/Debug/net8.0/Questao4.runtimeconfig.json
+/home/matheuscd/FaculdadeC#/RobsonC#2Bimestre/Questao4/bin/Debug/net8.0/Questao4.dll
+/home/matheuscd/FaculdadeC#/RobsonC#2Bimestre/Questao4/bin/Debug/net8.0/Questao4.pdb
+/home/matheuscd/FaculdadeC#/RobsonC#2Bimestre/Questao4/obj/Debug/net8.0/Questao4.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheuscd/FaculdadeC#/RobsonC#2Bimestre/Questao4/obj/Debug/net8.0/Questao4.AssemblyInfoInputs.cache
+/home/matheuscd/FaculdadeC#/RobsonC#2Bimestre/Questao4/obj/Debug/net8.0/Questao4.AssemblyInfo.cs
+/home/matheuscd/FaculdadeC#/RobsonC#2Bimestre/Questao4/obj/Debug/net8.0/Questao4.csproj.CoreCompileInputs.cache
+/home/matheuscd/FaculdadeC#/RobsonC#2Bimestre/Questao4/obj/Debug/net8.0/Questao4.sourcelink.json
+/home/matheuscd/FaculdadeC#/RobsonC#2Bimestre/Questao4/obj/Debug/net8.0/Questao4.dll
+/home/matheuscd/FaculdadeC#/RobsonC#2Bimestre/Questao4/obj/Debug/net8.0/refint/Questao4.dll
+/home/matheuscd/FaculdadeC#/RobsonC#2Bimestre/Questao4/obj/Debug/net8.0/Questao4.pdb
+/home/matheuscd/FaculdadeC#/RobsonC#2Bimestre/Questao4/obj/Debug/net8.0/Questao4.genruntimeconfig.cache
+/home/matheuscd/FaculdadeC#/RobsonC#2Bimestre/Questao4/obj/Debug/net8.0/ref/Questao4.dll
